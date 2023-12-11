@@ -1,0 +1,10 @@
+video{
+display:flex;
+align-content:center;
+border: 10px solid green;
+margin: 40px;
+translate:250px 10px;
+};
+a{ color:green;};
+html{
+    border:10px solid black
